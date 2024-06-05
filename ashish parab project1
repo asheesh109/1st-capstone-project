@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>welcome to football world BY ASHISH PARAB</title>
+        <body>
+            <h1>WELCOME TO THE FOOTBALL WORLD BY ASHISH PARAB </h1>
+            <hr>
+            <h2>this is the best website were you can get all type of football news</h2>
+            <img src="./assets/download.jpg" alt="picture of lionel messi"><img src="./assets/download (1).jpg "alt="pic of cristiano ronaldo"><img src="./assets/download (2).jpg" alt="pic of jude bellinghom"><img src="./assets/download (3).jpg" alt="pic of neymar junior">
+
+            <hr>
+            <h2>todays top news</h2>
+            <ol>
+                <li>lionel messi joins american football club inter miami</li>
+                <a href="https://www.intermiamicf.com/">click here to watch all inter miami updates</a>
+                <li>cristiano ronaldo will join al naser after this summer the deal is confirm by al nassers official website</li>
+                <a href="https://alnassr.sa/">click here to watch all updates </a>
+                <li>neymar junior will not play his further matches with al hilal because of a acl injuiry he will undergo a acl surgery and probably out for whole season</li>
+                <li>cristiano ronaldo buy new rolls royce for her wife and a villa in barcelona</li>
+                <li>after 5 years barcelona are in quater finals of ucl</li>
+            <a href="https://www.fcbarcelona.com/en/">click here to watch further schedule</a>
+            </ol>
+<h2>international football updates</h2>
+            <ul>
+<li>argentina annonce their new kit for copa america 2024</li>
+<ol>
+  <li><a href="https://www.afa.com.ar/es/">order from offcial website of argentina</a></li>  
+  <li> <a href="https://www.adidas.co.in/">order from addidas store</a></li>
+  <li><a href="https://www.amazon.in/">order from amazon</a></li>
+</ol>
+<li>portugal will add cristiano in playing 11 of portugals 2026 squad for world cup</li>
+<li>kilyan mbappe will join real madrid because of political pressure in france</li>
+<li> joa felix will be the lead striker for portugal rather than rafel leo</li>
+<li> italy will soon make comeback in world football said by cannvaro</li>
+</ol>
+ </ul>
+ <hr>
+ <h3>download our official 433 appfor better experiance</h3>
+ <a href="https://play.google.com/store/apps/details?id=com. football433&hl=en_US&pli=1">click here to download</a>
+ <h3>follow our instagram page</h3>
+ <a href="https://www.instagram.com/433/">click here to watch</a>
+ <h3>subscribe us on youtube</h3>
+ <a href="https://www.instagram.com/433/">click here to subscribe</a>
+ <hr>
+ <h4><a href="https://www.coca-colacompany.com/">official sponsers of 433 coca-colacompany</a></h4>
+ <h5>know more about us</h5>
+ <a href="https://en.wikipedia.org/wiki/Association_football"> click here</a>
+ <h5>contact us on above websites</h5>
+ <h5>all copyrights@ are resrved by 433 official</h5>
+        </body>
+
+    </head>
+</html>
